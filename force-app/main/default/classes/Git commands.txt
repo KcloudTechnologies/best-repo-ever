@@ -1,0 +1,10 @@
+Git cli Commands
+
+
+1. intialise local repositary :- git init
+2. connect with a central repositary from github :- git remote add origin "<repositary Url>"
+3. Pull data from central repositary to local repositary :- git pull origin master
+4. add new files in the index :- git add <fileName>
+5. add all files in the folder at once :- git add -A
+6. commit added files in index to local repositaory :- git commit -m "this is some comment from the collaborator about this commit"
+7. commit all files from at once :- git commit -a -m "only fifference between add and commit all is smal a and capital A"
